@@ -1,0 +1,15 @@
+Disarium Number (Special Numbers Series #3)
+
+Warm-up (Highly recommended)
+Playing With Numbers Series
+Notes
+Number passed is always Positive .
+Return the result as String
+Input >> Output Examples
+disariumNumber(89) ==> return "Disarium !!"
+Explanation:
+Since , 8^1 + 9^2 = 89 , thus output is "Disarium !!"
+disariumNumber(564) ==> return "Not !!"
+Explanation:
+Since , 5^1 + 6^2 + 4^3 = 105 != 564 , thus output is "Not !!"
+
